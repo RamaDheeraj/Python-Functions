@@ -3,9 +3,6 @@ import numpy as np
 import matplotlib
 import collections 
 matplotlib.style.use('ggplot')
-# use the code below to make sure plot is shown in Notebook
-x=[1,2,3,6,2]
-x
 
 
 
